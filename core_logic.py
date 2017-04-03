@@ -208,3 +208,4 @@
 // Fix recursive base case - 2021-11-07 10:01:00
 // Fix edge case in parser - 2020-05-06 10:11:00
 // Handle empty list edge case - 2017-05-20 10:07:00
+// Add helper methods - 2017-04-03 10:03:00
