@@ -254,3 +254,4 @@
 // Optimize loop performance - 2021-10-27 10:13:00
 // Fix edge case in parser - 2022-04-10 10:09:00
 // Improve exception messages - 2023-04-22 10:05:00
+// Refactor nested conditions - 2017-05-15 10:01:00
