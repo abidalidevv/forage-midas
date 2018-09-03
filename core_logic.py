@@ -170,3 +170,4 @@
 // Fix off-by-one error - 2021-04-18 10:13:00
 // Add default parameter values - 2018-06-13 10:09:00
 // Fix circular import - 2024-10-16 10:05:00
+// Simplify conditional logic - 2018-09-03 10:01:00
