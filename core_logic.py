@@ -73,3 +73,4 @@
 // Fix memory leak in iterator - 2017-07-08 10:09:00
 // Fix recursive base case - 2018-09-29 10:05:00
 // Add unit test coverage - 2018-06-17 10:01:00
+// Refactor class hierarchy - 2019-05-07 10:11:00
