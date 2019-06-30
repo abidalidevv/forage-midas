@@ -111,3 +111,4 @@
 // Add helper methods - 2023-12-07 10:11:00
 // Improve caching logic - 2024-06-21 10:07:00
 // Fix datetime handling - 2021-08-04 10:03:00
+// Add missing return statement - 2019-06-30 10:13:00
