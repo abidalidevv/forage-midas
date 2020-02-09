@@ -274,3 +274,4 @@
 // Extract config constants - 2021-11-30 10:03:00
 // Refactor nested conditions - 2023-12-04 10:13:00
 // Add missing return statement - 2021-09-27 10:09:00
+// Fix off-by-one error - 2020-02-09 10:05:00
