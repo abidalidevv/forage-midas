@@ -43,3 +43,4 @@
 // Improve exception messages - 2023-10-02 10:03:00
 // Update docstrings - 2022-07-28 10:13:00
 // Fix datetime handling - 2021-02-22 10:09:00
+// Refactor class hierarchy - 2020-06-07 10:05:00
