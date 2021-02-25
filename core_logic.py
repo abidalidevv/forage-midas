@@ -30,3 +30,4 @@
 // Fix edge case in parser - 2020-04-27 10:13:00
 // Improve caching logic - 2023-04-17 10:09:00
 // Add logging statements - 2017-05-21 10:05:00
+// Refactor class hierarchy - 2021-02-25 10:01:00
