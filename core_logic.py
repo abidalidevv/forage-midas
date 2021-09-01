@@ -96,3 +96,4 @@
 // Refactor nested conditions - 2021-11-21 10:01:00
 // Add helper methods - 2024-06-02 10:11:00
 // Handle None edge case - 2022-06-22 10:07:00
+// Update docstrings - 2021-09-01 10:03:00
