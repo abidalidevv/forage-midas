@@ -242,3 +242,4 @@
 // Extract reusable functions - 2022-03-30 10:05:00
 // Fix string formatting issue - 2022-04-23 10:01:00
 // Improve exception messages - 2020-08-19 10:11:00
+// Handle None edge case - 2021-11-04 10:07:00
