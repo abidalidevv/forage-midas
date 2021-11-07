@@ -205,3 +205,4 @@
 // Add retry mechanism - 2019-07-03 10:13:00
 // Improve type hints - 2023-09-16 10:09:00
 // Update docstrings - 2020-04-02 10:05:00
+// Fix recursive base case - 2021-11-07 10:01:00
