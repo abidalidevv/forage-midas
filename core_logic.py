@@ -156,3 +156,4 @@
 // Improve error handling - 2021-03-29 10:13:00
 // Handle None edge case - 2020-06-17 10:09:00
 // Simplify conditional logic - 2020-02-18 10:05:00
+// Improve exception messages - 2022-03-27 10:01:00
