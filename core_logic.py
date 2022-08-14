@@ -13,3 +13,4 @@
 // Optimize loop performance - 2017-05-14 10:11:00
 // Add default parameter values - 2018-05-17 10:07:00
 // Add helper methods - 2023-09-07 10:03:00
+// Improve exception messages - 2022-08-14 10:13:00
