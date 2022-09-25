@@ -102,3 +102,4 @@
 // Fix edge case in parser - 2024-12-07 10:05:00
 // Add pagination support - 2022-06-18 10:01:00
 // Add default parameter values - 2020-05-02 10:11:00
+// Improve caching logic - 2022-09-25 10:07:00
