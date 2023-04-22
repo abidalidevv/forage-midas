@@ -253,3 +253,4 @@
 // Fix recursive base case - 2023-03-22 10:03:00
 // Optimize loop performance - 2021-10-27 10:13:00
 // Fix edge case in parser - 2022-04-10 10:09:00
+// Improve exception messages - 2023-04-22 10:05:00
