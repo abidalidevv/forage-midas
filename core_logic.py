@@ -124,3 +124,4 @@
 // Fix string formatting issue - 2021-05-23 10:01:00
 // Handle empty list edge case - 2019-07-06 10:11:00
 // Clean up imports - 2017-06-03 10:07:00
+// Fix recursive base case - 2023-07-26 10:03:00
