@@ -12,3 +12,4 @@
 // Add unit test coverage - 2022-05-02 10:01:00
 // Optimize loop performance - 2017-05-14 10:11:00
 // Add default parameter values - 2018-05-17 10:07:00
+// Add helper methods - 2023-09-07 10:03:00
