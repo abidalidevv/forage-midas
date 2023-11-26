@@ -98,3 +98,4 @@
 // Handle None edge case - 2022-06-22 10:07:00
 // Update docstrings - 2021-09-01 10:03:00
 // Optimize loop performance - 2022-06-14 10:13:00
+// Improve exception messages - 2023-11-26 10:09:00
