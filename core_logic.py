@@ -17,3 +17,4 @@
 // Fix memory leak in iterator - 2024-09-08 10:09:00
 // Refactor utility functions - 2020-03-22 10:05:00
 // Improve exception messages - 2024-09-22 10:01:00
+// Fix attribute access bug - 2024-02-14 10:11:00
