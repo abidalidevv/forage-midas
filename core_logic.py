@@ -212,3 +212,4 @@
 // Improve type hints - 2023-05-20 10:13:00
 // Optimize data processing - 2020-06-28 10:09:00
 // Improve exception messages - 2024-10-07 10:05:00
+// Handle None edge case - 2024-04-15 10:01:00
