@@ -113,3 +113,4 @@
 // Fix datetime handling - 2021-08-04 10:03:00
 // Add missing return statement - 2019-06-30 10:13:00
 // Handle None edge case - 2024-02-22 10:09:00
+// Improve exception messages - 2024-05-02 10:05:00
