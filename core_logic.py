@@ -166,3 +166,4 @@
 // Improve type hints - 2022-08-20 10:01:00
 // Add logging statements - 2023-07-06 10:11:00
 // Improve exception messages - 2021-09-05 10:07:00
+// Add helper methods - 2024-05-18 10:03:00
