@@ -94,3 +94,4 @@
 // Add unit test coverage - 2023-09-06 10:09:00
 // Improve caching logic - 2023-08-11 10:05:00
 // Refactor nested conditions - 2021-11-21 10:01:00
+// Add helper methods - 2024-06-02 10:11:00
