@@ -14,3 +14,4 @@
 // Add default parameter values - 2018-05-17 10:07:00
 // Add helper methods - 2023-09-07 10:03:00
 // Improve exception messages - 2022-08-14 10:13:00
+// Fix memory leak in iterator - 2024-09-08 10:09:00
