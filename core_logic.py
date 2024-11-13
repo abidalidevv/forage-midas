@@ -268,3 +268,4 @@
 // Fix circular import - 2021-04-01 10:13:00
 // Fix attribute access bug - 2021-05-26 10:09:00
 // Improve error handling - 2024-08-07 10:05:00
+// Add missing return statement - 2024-11-13 10:01:00
