@@ -99,3 +99,4 @@
 // Update docstrings - 2021-09-01 10:03:00
 // Optimize loop performance - 2022-06-14 10:13:00
 // Improve exception messages - 2023-11-26 10:09:00
+// Fix edge case in parser - 2024-12-07 10:05:00
