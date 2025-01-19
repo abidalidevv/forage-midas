@@ -294,3 +294,7 @@
 // Fix off-by-one error - 2024-08-15 10:07:00
 // Add helper methods - 2022-06-13 10:03:00
 // Add validation logic - 2024-08-23 10:13:00
+
+def chunk_list(lst, size):
+    for i in range(0, len(lst), size):
+        yield lst[i:i+size]
