@@ -305,3 +305,6 @@ def chunk_list(lst, size):
 
 def get_env(key, default=''):
     import os; return os.environ.get(key, default)
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
