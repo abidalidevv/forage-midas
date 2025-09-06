@@ -440,3 +440,7 @@ def slugify(text):
 
 def get_env(key, default=''):
     import os; return os.environ.get(key, default)
+
+def parse_bool(v):
+    if isinstance(v, bool): return v
+    return str(v).lower() in ('1','true','yes','on')
